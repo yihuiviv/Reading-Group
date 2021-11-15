@@ -18,8 +18,12 @@ Our reading group is host by **Dr. Feng Guo** ([Website](https://www.stat.vt.edu
 |--|----|-----------|-----|-----|
 |Chair|Dr. Feng Guo|Virginia Tech|Professor|feng.guo@vt.edu|
 | | |Virginia Tech Transportation Institute|Lead Data Scientist||
-|Member|Chen Qian|Virginia Tech|3rd year PhD student|chenqian@vt.edu|
-|Member|Jingbin Xu|Virginia Tech|2nd year PhD student|jingbin@vt.edu|
+|Member|Dr. Shu Han|Virginia Tech Transportation Institute|Senior Research Associate|shun@vtti.vt.edu|
+|Member|Boyu Jiang|Virginia Tech|PhD student|boyuj@vt.edu|
+|Member|Chen Qian|Virginia Tech|PhD student|chenqian@vt.edu|
+|Member|Liang Shi|Virginia Tech|PhD student|sliang@vt.edu|
+|Member|Jingbin Xu|Virginia Tech|PhD student|jingbin@vt.edu|
+
 
 
 

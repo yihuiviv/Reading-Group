@@ -1,4 +1,4 @@
-# Selected Paper List
+# Selected Paper/Article List
 - [Conditional Object-Centric Learning from Video by Google Research](https://slot-attention-video.github.io)
 - [NeurlPS 2021强化学习文章整理 by 米祈睿](http://rlchina.org/topic/257)
 - [Breiman访谈录《统计建模：两种文化》20周年纪念 by 统计之都](https://mp.weixin.qq.com/s/DjDCiV4cRvwGY0s_CgXYAA)
